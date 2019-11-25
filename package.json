@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ivan-hwh/Node.js/issues"
   },
-  "homepage": "https://github.com/Ivan-hwh/Node.js#readme"
+  "homepage": "https://github.com/Ivan-hwh/Node.js#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
 }
